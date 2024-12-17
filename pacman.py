@@ -6,7 +6,7 @@ import math
 pygame.init()
 
 WIDTH = 900
-HEIGHT = 850
+HEIGHT = 950
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 ### Xác định FPS ###
 fps = 60
